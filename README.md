@@ -1,6 +1,5 @@
 # netflix-acessos-dashboard
 📊 Netflix – Dashboard de Acessos (Simulado)
-<img src="dashboard-capa.jpg" alt="Capa do Dashboard Netflix" width="600"/>
 Este projeto é um dashboard interativo desenvolvido no Power BI, simulando os acessos à plataforma Netflix, com foco na análise de dados por região, país e planos contratados.
 
 🔍 Funcionalidades
